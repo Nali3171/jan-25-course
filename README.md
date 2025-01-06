@@ -1,15 +1,9 @@
 # jan-25-course
 
-Here is some text
+-   [Unix / Git](./bash-git/README.md)
 
-3 stages / areas of gitflow
+Git branches
+HTML recap
+CSS recap
 
-Working Directory
-git add .
-git add FILENAME.fileextension
-
-Staging area
-git commit -m "Precise message about the changes done in this commit"
-
-Local Repository
-git push
+16:30 - Sam - welcome pack
