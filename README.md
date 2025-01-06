@@ -7,3 +7,4 @@ HTML recap
 CSS recap
 
 16:30 - Sam - welcome pack
+Only on branch feature/2
