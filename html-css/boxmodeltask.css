@@ -1,0 +1,16 @@
+div{
+    border: 2px solid salmon;
+    background-color: green;
+}
+
+.card{
+background-color: lightgreen;
+padding: 10px;
+}
+
+#box{
+    background-color: salmon;
+    padding: 20px;
+    border: 10px solid orangered;
+}
+

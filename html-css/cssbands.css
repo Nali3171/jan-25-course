@@ -1,0 +1,35 @@
+h1 {
+    color:orange;
+    font-size: 25px;
+    text-align: center;
+}
+
+#favPara {
+    text-align: right;
+}
+
+h4{
+    color: green;
+
+}
+
+.border-bands{
+    font-weight: bold;
+    border: 3px solid black;
+    padding: 1px 40px;
+    margin: 1px;
+}
+
+.italic-underline{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.main-para{
+    padding: 1px 1px;
+}
+
+body{ 
+    margin:0;
+    padding:0;
+}

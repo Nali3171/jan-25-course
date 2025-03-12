@@ -1,0 +1,36 @@
+.block--element{
+    border: 2px solid grey;
+    background-color: lightblue;
+    border-radius: 5px;
+    height:50%;
+}
+
+.block{
+    display: flex;
+    align-items: center;
+    height: 200px;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly;
+
+    flex-wrap:wrap;
+    height: 200px;
+}
+.card--element{
+    border: 2px solid grey;
+    background-color: lightpink;
+    border-radius: 5px;
+    height: 25px;
+    width: 50%;
+}
+
+.container{
+    border: 2px solid blue;
+}
+
+.container--about{
+    background-color: red;
+    padding: 20px;
+    
+}

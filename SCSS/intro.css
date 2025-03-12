@@ -1,0 +1,22 @@
+/* Error: @use rules must be written before any other rules.
+ *   ,
+ * 3 | / @use "./modules/palette.scss"
+ * 4 | | 
+ * 5 | | 
+ * 6 | | 
+ * 7 | | 
+ * 8 | | 
+ * 9 | \ 
+ *   '
+ *   intro.scss 3:1  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: @use rules must be written before any other rules.\a   \2577 \a 3 \2502  \250c  @use "./modules/palette.scss"\a 4 \2502  \2502  \a 5 \2502  \2502  \a 6 \2502  \2502  \a 7 \2502  \2502  \a 8 \2502  \2502  \a 9 \2502  \2514  \a   \2575 \a   intro.scss 3:1  root stylesheet';
+}

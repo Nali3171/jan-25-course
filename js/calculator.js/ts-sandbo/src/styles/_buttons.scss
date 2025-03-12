@@ -1,0 +1,25 @@
+.calculator {
+&_buttons {
+    display : grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+&_button{
+    border-radius : 10px;
+    padding : 10px;
+    font-size:20px;
+    font-weight: bold;
+    cursor: pointer;
+
+    &_operator {
+        background-color: rgb(130, 219, 130);
+        color: black;
+        
+    }
+    &--double-width {
+        
+    }
+}
+
+}

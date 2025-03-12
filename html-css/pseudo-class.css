@@ -1,0 +1,36 @@
+p{
+    color: blue;
+}
+
+p:hover{
+    color:red;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited{
+    color: fuchsia;
+}
+
+a:active {
+    color: yellow;
+}
+
+a:hover { 
+    cursor:e-resize;
+}
+
+#boxContainer{
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+#box {
+    background-color: green;
+    padding: 30px;
+    padding-left: 100px;
+    border: 10px solid brown;
+    margin: 20px;
+}

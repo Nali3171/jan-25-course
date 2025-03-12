@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Data-structures/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Data-structures/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Interfaces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Interfaces/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/classes-onjects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/classes-onjects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enums-abstract/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enums-abstract/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exceptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exceptions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/polymorphism-inheritance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/polymorphism-inheritance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revision/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revision/src/main/java/org/example/Proj_1_AverageOfThree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revision/src/main/java/org/example/Proj_1_AverageOfThree/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revision/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-resources/03-java/junit-testing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student-resources/03-java/junit-testing/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

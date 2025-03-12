@@ -1,0 +1,50 @@
+@import "./modules/palette.scss";
+
+@use "./modules/palette.scss"
+
+
+
+
+
+
+$default-font-size: 16px;
+
+h1{
+    color: lightpink;
+    border: 2px solid blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para{
+}
+
+.section{
+}
+
+.btn{
+    width: 200px;
+    height: 100px;
+
+    &--primary {
+        font-size: larger;
+    }
+    &--secondary {
+        background-color: darkcyan;
+        color: violet;
+        font-weight: 900;
+        font-size: 24px;
+    }
+    &--urgent {
+        background-color: green;
+        font-size: 30px;
+        text-decoration: underline;
+
+        &__italic{
+            font-style: italic;
+        }
+
+        &__red-border{
+            border: 2px solid red;
+        }
+    }
+}

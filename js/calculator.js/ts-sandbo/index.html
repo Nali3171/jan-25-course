@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator walkthrough</title>
+  </head>
+  <body>
+   
+    <div class="calculator">
+      <input id="display" type="text" placeholder="0" value=""/>
+      //THIS GIVES THE IMPUT BAR WHICH DISPLAYS NUMBERS
+
+        <div class="calculator_buttons">
+          
+         <button class="calculator_button calculator_button--operator">AC</button>
+         <button class="calculator_button calculator_button--operator">DEL</button>
+         <button class="calculator_button calculator_button--operator">%</button>
+         <button class="calculator_button calculator_button--operator">/</button>
+
+         <button class="calculator_button">7</button>
+         <button class="calculator_button">8</button>
+         <button class="calculator_button">9</button>
+         <button class="calculator_button calculator_button--operator">x</button>
+
+         <button class="calculator_button">4</button>
+         <button class="calculator_button">5</button>
+         <button class="calculator_button">6</button>
+         <button class="calculator_button calculator_button--operator">-</button>
+
+         <button class="calculator_button">1</button>
+         <button class="calculator_button">2</button>
+         <button class="calculator_button">3</button>
+         <button class="calculator_button calculator_button--operator">+</button>
+
+         <button class="calculator_button">0</button>
+         <button class="calculator_button">.</button>
+         <button id="equals" class="calculator_button calculator_button--operator calculator_button--double-width">=</button>
+        </div>
+    </div>
+
+
+    <script type="module" src="./src/main.ts"></script>
+
+  </body>
+</html>

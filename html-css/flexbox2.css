@@ -1,0 +1,66 @@
+.block{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 100px;
+    margin:20px;
+    padding: 5%;
+    
+}
+
+
+.card-eight{
+    background-color: skyblue;
+    border: 2px solid skyblue;
+    padding: 30px;
+
+}
+.card-seven{
+    background-color: lightcyan;
+    border: 2px solid lightcyan;
+        padding: 30px;
+}
+.card-six{
+    background-color: grey;
+    border: 2px solid grey;
+    padding: 30px;
+}
+.card-five{
+    background-color: pink;
+    border: 2px solid pink;
+    padding: 30px;
+}
+
+.class{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: auto;
+    margin: 20px;
+    padding: 5%;
+    gap: 15px;
+}
+.card-four{
+    background-color: peru;
+    border: 2px solid peru;
+    padding: 30px;}
+
+.card-three{
+        background-color: green;
+        border: 2px solid green;
+        padding: 30px;
+}
+
+.card-two{
+      background-color: red;
+      border: 2px solid red;
+      padding: 30px;
+}
+
+.card-one{
+    background-color: lightskyblue;
+    border: 2px solid lightskyblue;
+    padding: 30px;}

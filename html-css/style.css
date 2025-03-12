@@ -1,0 +1,31 @@
+body {
+    border: 5px solid red;
+    background-image: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    color: yellow;
+}
+
+.black-border {
+    border: 2px solid black;
+}
+
+.default-para {
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+#secondPara {
+    background-color: bisque;
+}
+.font-italic {
+    font-style: italic;
+}
+#lastPara {
+    color: orchid;
+}
