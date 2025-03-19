@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java/Java-intro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java/challenges" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java/farmyard-streams" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java/zoology2-code-along" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-filter-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ts-challenges" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ts-challenges/Challenges" vcs="Git" />
+  </component>
+</project>
