@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.Random;
+
 public class FunWith2DArrays {
 
     public static void main(String[] args) {
@@ -39,7 +41,7 @@ print2DArray(my2DArray);
 
     public static void twice2DArray(int[][] twoDArray){
         for(int i=0; i < twoDArray.length; i++){
-            for(int j =0; j< twoDArr[i].length; j++){
+            for(int j =0; j< twoDArray[i].length; j++){
                 twoDArray[i][j] *= 2;
 
             }
